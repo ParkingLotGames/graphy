@@ -13,8 +13,6 @@
 
 using UnityEngine;
 
-namespace Tayx.Graphy.UI
-{
     public interface IMovable
     {
         /// <summary>
@@ -25,4 +23,3 @@ namespace Tayx.Graphy.UI
         /// </param>
         void SetPosition( GraphyManager.ModulePosition newModulePosition, Vector2 offset );
     }
-}

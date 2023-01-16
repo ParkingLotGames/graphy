@@ -11,12 +11,9 @@
  * Attribution is not required, but it is always welcomed!
  * -------------------------------------*/
 
-using Tayx.Graphy.Graph;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Tayx.Graphy.Audio
-{
     public class G_AudioGraph : G_Graph
     {
         #region Variables -> Serialized Private
@@ -291,4 +288,3 @@ namespace Tayx.Graphy.Audio
 
         #endregion
     }
-}

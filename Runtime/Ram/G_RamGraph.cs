@@ -11,13 +11,10 @@
  * Attribution is not required, but it is always welcomed!
  * -------------------------------------*/
 
-using Tayx.Graphy.Graph;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Profiling;
 
-namespace Tayx.Graphy.Ram
-{
     public class G_RamGraph : G_Graph
     {
         #region Variables -> Serialized Private
@@ -262,4 +259,3 @@ namespace Tayx.Graphy.Ram
 
         #endregion
     }
-}

@@ -14,8 +14,6 @@
 using UnityEngine;
 using UnityEngine.Profiling;
 
-namespace Tayx.Graphy.Ram
-{
     public class G_RamMonitor : MonoBehaviour
     {
         #region Properties -> Public
@@ -37,4 +35,3 @@ namespace Tayx.Graphy.Ram
 
         #endregion
     }
-}

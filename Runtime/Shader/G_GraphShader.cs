@@ -14,8 +14,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Tayx.Graphy
-{
+
     /// <summary>
     /// This class communicates directly with the shader to draw the graphs. Performance here is very important
     /// to reduce as much overhead as possible, as we are updating hundreds of values every frame.
@@ -117,4 +116,3 @@ namespace Tayx.Graphy
 
         #endregion
     }
-}

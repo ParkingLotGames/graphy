@@ -13,12 +13,8 @@
 
 using UnityEngine;
 using System.Collections.Generic;
-using Tayx.Graphy.UI;
-using Tayx.Graphy.Utils;
 using UnityEngine.UI;
 
-namespace Tayx.Graphy.Ram
-{
     public class G_RamManager : MonoBehaviour, IMovable, IModifiableState
     {
         #region Variables -> Serialized Private
@@ -229,4 +225,3 @@ namespace Tayx.Graphy.Ram
 
         #endregion
     }
-}

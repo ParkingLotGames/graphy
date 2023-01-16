@@ -21,12 +21,6 @@ using UnityEngine.XR;
 using System.Collections.Generic;
 using System.Text;
 
-using Tayx.Graphy.UI;
-using Tayx.Graphy.Utils;
-using Tayx.Graphy.Utils.NumString;
-
-namespace Tayx.Graphy.Advanced
-{
     public class G_AdvancedData : MonoBehaviour, IMovable, IModifiableState
     {
         #region Variables -> Serialized Private
@@ -384,4 +378,3 @@ namespace Tayx.Graphy.Advanced
 
         #endregion
     }
-}

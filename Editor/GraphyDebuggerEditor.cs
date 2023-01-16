@@ -11,14 +11,11 @@
  * Attribution is not required, but it is always welcomed!
  * -------------------------------------*/
 
-using System;
 using UnityEngine;
 using System.Collections.Generic;
-using System.IO;
 using UnityEditor;
 
-namespace Tayx.Graphy
-{
+
     [CustomEditor( typeof( GraphyDebugger ) )]
     internal class GraphyDebuggerEditor : Editor
     {
@@ -575,4 +572,3 @@ namespace Tayx.Graphy
 
         #endregion
     }
-}

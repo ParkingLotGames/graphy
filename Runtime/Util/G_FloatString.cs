@@ -13,8 +13,7 @@
 
 using UnityEngine;
 
-namespace Tayx.Graphy.Utils.NumString
-{
+
     public static class G_FloatString
     {
         #region Variables -> Private
@@ -176,4 +175,3 @@ namespace Tayx.Graphy.Utils.NumString
 
         #endregion
     }
-}

@@ -11,13 +11,10 @@
  * Attribution is not required, but it is always welcomed!
  * -------------------------------------*/
 
-using System;
-using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace Tayx.Graphy
-{
+
     internal static class GraphyEditorStyle
     {
         #region Variables -> Private
@@ -115,4 +112,3 @@ namespace Tayx.Graphy
 
         #endregion
     }
-}

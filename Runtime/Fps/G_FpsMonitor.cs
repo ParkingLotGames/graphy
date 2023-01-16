@@ -12,12 +12,9 @@
  * -------------------------------------*/
 
 using System;
-using System.Xml.Linq;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
-namespace Tayx.Graphy.Fps
-{
     public class G_FpsMonitor : MonoBehaviour
     {
         #region Variables -> Private
@@ -145,4 +142,3 @@ namespace Tayx.Graphy.Fps
 
         #endregion
     }
-}

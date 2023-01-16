@@ -15,8 +15,7 @@ using UnityEngine;
 using System.Collections.Generic;
 using UnityEngine.UI;
 
-namespace Tayx.Graphy.Utils
-{
+
     public static class G_ExtensionMethods
     {
         #region Methods -> Extension Methods
@@ -62,4 +61,3 @@ namespace Tayx.Graphy.Utils
 
         #endregion
     }
-}

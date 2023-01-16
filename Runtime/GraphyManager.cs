@@ -13,19 +13,12 @@
 
 using System;
 using UnityEngine;
-using Tayx.Graphy.Audio;
-using Tayx.Graphy.Fps;
-using Tayx.Graphy.Ram;
-using Tayx.Graphy.Utils;
-using Tayx.Graphy.Advanced;
-using Tayx.Graphy.Utils.NumString;
 
 #if GRAPHY_NEW_INPUT
 using UnityEngine.InputSystem;
 #endif
 
-namespace Tayx.Graphy
-{
+
     /// <summary>
     /// Main class to access the Graphy API.
     /// </summary>
@@ -1056,4 +1049,3 @@ namespace Tayx.Graphy
 
         #endregion
     }
-}

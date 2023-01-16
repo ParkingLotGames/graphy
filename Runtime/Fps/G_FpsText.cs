@@ -13,10 +13,7 @@
 
 using UnityEngine;
 using UnityEngine.UI;
-using Tayx.Graphy.Utils.NumString;
 
-namespace Tayx.Graphy.Fps
-{
     public class G_FpsText : MonoBehaviour
     {
         #region Variables -> Serialized Private
@@ -153,4 +150,3 @@ namespace Tayx.Graphy.Fps
 
         #endregion
     }
-}

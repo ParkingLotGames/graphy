@@ -14,8 +14,7 @@
 
 using UnityEngine;
 
-namespace Tayx.Graphy.Utils
-{
+
     /// <summary>
     /// Be aware this will not prevent a non singleton constructor
     ///   such as `T myT = new T();`
@@ -81,4 +80,3 @@ namespace Tayx.Graphy.Utils
 
         #endregion
     }
-}

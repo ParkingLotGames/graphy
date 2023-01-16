@@ -13,8 +13,6 @@
 
 using UnityEngine;
 
-namespace Tayx.Graphy.Graph
-{
     public abstract class G_Graph : MonoBehaviour
     {
         #region Methods -> Protected
@@ -31,4 +29,3 @@ namespace Tayx.Graphy.Graph
 
         #endregion
     }
-}

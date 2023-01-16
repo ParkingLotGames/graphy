@@ -11,13 +11,10 @@
  * Attribution is not required, but it is always welcomed!
  * -------------------------------------*/
 
-using System;
 using UnityEngine;
-using System.IO;
 using UnityEditor;
 
-namespace Tayx.Graphy
-{
+
     [CustomEditor( typeof( GraphyManager ) )]
     internal class GraphyManagerEditor : Editor
     {
@@ -870,4 +867,3 @@ namespace Tayx.Graphy
 
         #endregion
     }
-}

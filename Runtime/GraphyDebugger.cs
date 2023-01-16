@@ -19,13 +19,6 @@ using Debug = UnityEngine.Debug;
 using System.Collections.Generic;
 using System.Linq;
 
-using Tayx.Graphy.Audio;
-using Tayx.Graphy.Fps;
-using Tayx.Graphy.Ram;
-using Tayx.Graphy.Utils;
-
-namespace Tayx.Graphy
-{
     /// <summary>
     /// Main class to access the Graphy Debugger API.
     /// </summary>
@@ -564,4 +557,3 @@ namespace Tayx.Graphy
 
         #endregion
     }
-}

@@ -13,10 +13,7 @@
 
 using UnityEngine;
 using UnityEngine.UI;
-using Tayx.Graphy.Utils.NumString;
 
-namespace Tayx.Graphy.Ram
-{
     public class G_RamText : MonoBehaviour
     {
         #region Variables -> Serialized Private
@@ -93,4 +90,3 @@ namespace Tayx.Graphy.Ram
 
         #endregion
     }
-}

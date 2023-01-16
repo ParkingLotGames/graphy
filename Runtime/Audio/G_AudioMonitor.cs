@@ -14,8 +14,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Tayx.Graphy.Audio
-{
     /// <summary>
     /// Note: this class only works with Unity's AudioListener.
     /// If you're using a custom audio engine (like FMOD or WWise) it won't work,
@@ -208,4 +206,3 @@ namespace Tayx.Graphy.Audio
 
         #endregion
     }
-}

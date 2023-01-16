@@ -13,10 +13,7 @@
 
 using UnityEngine;
 using UnityEngine.UI;
-using Tayx.Graphy.Utils.NumString;
 
-namespace Tayx.Graphy.Audio
-{
     public class G_AudioText : MonoBehaviour
     {
         #region Variables -> Serialized Private
@@ -87,4 +84,3 @@ namespace Tayx.Graphy.Audio
 
         #endregion
     }
-}

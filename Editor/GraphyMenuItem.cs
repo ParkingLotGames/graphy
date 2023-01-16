@@ -14,8 +14,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace Tayx.Graphy
-{
+
     public class GraphyMenuItem
     {
         [MenuItem( "Tools/Graphy/Create Prefab Variant" )]
@@ -63,4 +62,3 @@ namespace Tayx.Graphy
             AssetDatabase.ImportPackage( AssetDatabase.GUIDToAssetPath( customizationSceneGuid ), true );
         }
     }
-}

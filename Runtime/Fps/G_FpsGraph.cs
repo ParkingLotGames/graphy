@@ -11,12 +11,9 @@
  * Attribution is not required, but it is always welcomed!
  * -------------------------------------*/
 
-using Tayx.Graphy.Graph;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace Tayx.Graphy.Fps
-{
     public class G_FpsGraph : G_Graph
     {
         #region Variables -> Serialized Private
@@ -194,4 +191,3 @@ namespace Tayx.Graphy.Fps
 
         #endregion
     }
-}

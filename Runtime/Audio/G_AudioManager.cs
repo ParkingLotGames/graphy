@@ -14,11 +14,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
-using Tayx.Graphy.UI;
-using Tayx.Graphy.Utils;
 
-namespace Tayx.Graphy.Audio
-{
     public class G_AudioManager : MonoBehaviour, IMovable, IModifiableState
     {
         #region Variables -> Serialized Private
@@ -236,4 +232,3 @@ namespace Tayx.Graphy.Audio
 
         #endregion
     }
-}
